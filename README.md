@@ -1,16 +1,23 @@
-## Hi there 👋
+#  Hi, I'm Jamea Daniels
+Executive Business Partner and Operations Professional with experience supporting C-Suite leaders across technology, SaaS, healthcare, and mission-driven organizations.
+## Areas of Expertise
+- Executive Partnership
+- Business Operations
+- Project & Program Management
+- Strategic Planning
+- Executive Communication
+- Cross Functional Leadership
+- Process Improvement
+  
+## Currently Focused on 
+- Executive Assistant
+- Chief of Staff opportunities
+- Business Operations leadership
+- AI-enabled executive workflows
+- Operational excellence
 
-<!--
-**JDExecBusOpsPro/JDExecBusOpsPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ## Connect With Me
 
-Here are some ideas to get you started:
+  LinkedIn: www.linkedin.com/in/jameadaniels
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**JDExecBusOpsPro/JDExecBusOpsPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profil
