@@ -9,7 +9,7 @@ Executive Business Partner and Operations Professional with experience supportin
 - Cross Functional Leadership
 - Process Improvement
   
-## Currently Focused on 
+## Currently Focused On 
 - Executive Assistant
 - Chief of Staff opportunities
 - Business Operations leadership
