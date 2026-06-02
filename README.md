@@ -19,5 +19,3 @@ Executive Business Partner and Operations Professional with experience supportin
   ## Connect With Me
 
   LinkedIn: www.linkedin.com/in/jameadaniels
-
-**JDExecBusOpsPro/JDExecBusOpsPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profil
